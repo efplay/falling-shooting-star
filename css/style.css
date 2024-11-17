@@ -1,0 +1,52 @@
+body {
+    background: radial-gradient(ellipse at bottom, #1b2735 0%, #08090d 100%);
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+    align-items: center;
+}
+
+.night {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform: rotateZ(45deg);
+    overflow: hidden;
+}
+
+.shooting_star{
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    width: 10px;
+    height: 10px;
+    clip-path: polygon(
+      50% 0%, 
+      61% 35%, 
+      98% 35%, 
+      68% 57%, 
+      79% 91%, 
+      50% 70%, 
+      21% 91%, 
+      32% 57%, 
+      2% 35%, 
+      39% 35%);
+    background: linear-gradient(90deg,white,transparent);
+    animation: falling linear infinite;
+    /*transform: rotate(-45deg); */
+    opacity: 0;
+}
+
+@keyframes falling {
+    0% { 
+        opacity: 1;
+        transform: /*translateX(0)*/ translateY(0) /*rotate(-45deg);*/
+    }
+    100% { 
+        opacity: 0;
+        transform: /*translateX(-300px)*/ translateY(300px) /* rotate(-45deg); */
+    }
+}
