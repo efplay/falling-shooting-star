@@ -1,0 +1,19 @@
+{
+  "name": "falling-stars",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "falling-stars",
+    "widget",
+    "animation"
+  ],
+  "author": "Efplay",
+  "license": "ISC",
+  "description": "A widget with falling stars animation",
+  "devDependencies": {
+    "electron": "^26.6.10"
+  }
+}
