@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store          # macOS
+Thumbs.db          # Windows
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment files (contains sensitive data)
+.env
+
+# Temporary files
+*.tmp
+
+# Coverage directory used by testing frameworks
+coverage/
