@@ -1,6 +1,6 @@
 # 🌟 Falling Shooting Star Game 🌟
 
-Welcome to the **Falling Shooting Star** game! 🚀 This fun and interactive game lets you control a character to catch falling stars in a dazzling celestial environment. 🌠
+Welcome to the **Falling Shooting Star** project! 🚀  This project features a celestial-themed experience with falling stars. 🌟 
 
 ****![image](https://github.com/user-attachments/assets/a7dd915f-5b33-40cf-bdb7-d2ea5865b56a)
 ---
