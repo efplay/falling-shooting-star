@@ -19,9 +19,9 @@ To run the project locally, follow these simple steps:
 ---
 
 ## 🛠️ Technologies Used
-- **HTML: Structure 🏗️
-- **CSS: Styling and animations ✨
-- **JavaScript: logic and interactivity 🎮
+- **HTML:** Structure 🏗️
+- **CSS:** Styling and animations ✨
+- **JavaScript:** logic and interactivity 🎮
 
 ---
 ## 📩 Info
