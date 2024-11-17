@@ -1,26 +1,23 @@
 # Node.js dependencies
 node_modules/
 
-# Build output
+# Build output (если проект использует сборку)
 dist/
 build/
 
-# Log files
+# Лог-файлы
 *.log
 
-# OS generated files
-.DS_Store          # macOS
-Thumbs.db          # Windows
-
-# IDE settings
+# Файлы IDE
 .vscode/
 .idea/
 
-# Environment files (contains sensitive data)
+# Системные файлы
+.DS_Store          # Для macOS
+Thumbs.db          # Для Windows
+
+# Файлы окружения
 .env
 
-# Temporary files
+# Временные файлы
 *.tmp
-
-# Coverage directory used by testing frameworks
-coverage/
