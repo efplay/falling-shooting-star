@@ -6,14 +6,7 @@ Welcome to the **Falling Shooting Star** game! 🚀 This fun and interactive gam
 ---
 ## ✨ Overview
 
-In the **Falling Shooting Star** game, you will be guiding your character to catch the stars falling from the sky. The game features a beautiful starry background, with stars falling at different speeds. The more stars you catch, the higher your score! 🌟
----
-## 🎮 Features
-
-- **Dynamic Animation**: A lively, animated starry sky that gives the feeling of being in space! ✨
-- **Interactive Gameplay**: Move your character or object to catch as many falling stars as you can. 🌠
-- **Scoring System**: Keep track of your score based on the number of stars you catch. 🌟
-- **Easy Setup**: Play directly in your web browser with zero setup required! 🌍
+In the **Falling Shooting Star** project, stars fall from the sky, creating a mesmerizing celestial experience. The animation and effects give users a chance to enjoy a visual journey through space, observing the stars as they descend. 🌟
 ---
 ## ⚙️ Installation
 
