@@ -2,7 +2,7 @@
 
 Welcome to the **Falling Shooting Star** project! 🚀  This project features a celestial-themed experience with falling stars. 🌟 
 
-****![image](https://github.com/user-attachments/assets/a7dd915f-5b33-40cf-bdb7-d2ea5865b56a)
+![image](https://github.com/user-attachments/assets/a7dd915f-5b33-40cf-bdb7-d2ea5865b56a)
 ---
 ## ✨ Overview
 
