@@ -15,7 +15,7 @@ To run the project locally, follow these simple steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/efplay/falling-shooting-star.git\
-2. Open the index.html file in your preferred web browser and start playing! 🖥️
+2. Open the index.html file in your preferred web browser ! 🖥️
 ---
 
 ## 🛠️ Technologies Used
