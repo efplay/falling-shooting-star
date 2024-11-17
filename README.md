@@ -31,7 +31,7 @@ To run the project locally, follow these simple steps:
 - **JavaScript: logic and interactivity 🎮
 
 ---
-## 📩 Contact
-Have any questions or feedback? Feel free to open an issue or contact the repository owner. Let’s make this game even better together! 🤝
+## 📩 Info
+### You can also remove the comments to make the stars move to the left creating a sense of space.
 
 ---
